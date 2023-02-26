@@ -1,3 +1,4 @@
+Hello 👋, Tejas here
 # 💫About Me :
 🌱 I’m currently learning DSA and React
 💬 Ask me about DSA, React, and Web Development
@@ -19,8 +20,7 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tejasp2003&icon=7&color=1)](https://visitcount.itsvg.in)
