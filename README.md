@@ -1,4 +1,4 @@
-Hello 👋, Tejas here
+# Hello 👋, Tejas here
 # 💫About Me :
 🌱 I’m currently learning DSA and React
 💬 Ask me about DSA, React, and Web Development
