@@ -67,7 +67,6 @@ src="https://img.shields.io/twitter/follow/tweetsoftejas?logo=twitter&style=for-
 
 
 # 📊GitHub Stats :
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 
 
 <a href="http://www.github.com/tejasp2003"><img src="https://github-readme-stats.vercel.app/api?username=tejasp2003&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true" alt="tejasp2003's GitHub stats" /></a>
