@@ -6,7 +6,7 @@ DSA and Development
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [tejasp200320@gmail.com](mailto:tejasp200320@gmail.com)
-* 🧠  I'm learning DSA and React
+* 🧠  I'm learning DSA and MERN Stack
 * 🤝  I'm open to collaborating on Web Development Projects
 * 🔎  Looking forward for OpenSource contributions
 
