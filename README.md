@@ -63,4 +63,11 @@ src="https://img.shields.io/twitter/follow/tweetsoftejas?logo=twitter&style=for-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/tejasp2003/AiHub" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tejasp2003&repo=AiHub&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/tejasp2003/DSA" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tejasp2003&repo=DSA&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/tejasp2003/Threads" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tejasp2003&repo=Threads&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" /></a>
+
+  <a href="https://github.com/tejasp2003/AirBnB-2.0" align="right"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tejasp2003&repo=AirBnB-2.0&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" /></a>
+
+  <a href="https://github.com/tejasp2003/AiHub" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tejasp2003&repo=AiHub&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" /></a>
+    <a href="https://github.com/tejasp2003/DSA" align="right"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tejasp2003&repo=DSA&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" /></a>
+
+  </div><br /><br /><br /><br /><br /><br /><br />
